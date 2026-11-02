@@ -3,6 +3,7 @@ import os
 import sys
 import urllib.parse
 import urllib.request
+from datetime import datetime, timezone, timedelta
 
 BASE = "https://www.safe182.go.kr/api/lcm/"
 # (API 주소, 저장할 파일 이름)
@@ -54,6 +55,64 @@ def fetch_all(api):
     return items, total
 
 
+KST = timezone(timedelta(hours=9))
+TODAY = datetime.now(KST).strftime("%Y-%m-%d")
+
+
+def mask_name(name):
+    name = (name or "").strip()
+    if len(name) <= 1:
+        return name
+    if len(name) == 2:
+        return name[0] + "○"
+    return name[0] + "○" * (len(name) - 2) + name[-1]
+
+
+def slim(item):
+    """공개 저장소에 올리므로 분석에 필요한 항목만 남기고 이름은 가려서 저장."""
+    return {
+        "nm": mask_name(item.get("nm")),
+        "age": item.get("age"),
+        "occrde": item.get("occrde"),
+        "sexdstnDscd": item.get("sexdstnDscd"),
+        "occrAdres": item.get("occrAdres"),
+        "writngTrgetDscd": item.get("writngTrgetDscd"),
+    }
+
+
+def key_of(r):
+    return "|".join(str(r.get(k)) for k in ("nm", "age", "occrde", "sexdstnDscd", "occrAdres"))
+
+
+def merge(outfile, fresh):
+    """기존 파일 + 이번에 받은 목록을 합쳐서 사라진 건도 남긴다."""
+    old = []
+    if os.path.exists(outfile):
+        try:
+            with open(outfile, encoding="utf-8") as f:
+                old = json.load(f)
+        except Exception:
+            old = []
+    merged = {}
+    for r in old:
+        base = slim(r)
+        base["_firstSeen"] = r.get("_firstSeen", TODAY)
+        base["_lastSeen"] = r.get("_lastSeen", r.get("_firstSeen", TODAY))
+        merged[key_of(base)] = base
+    new_count = 0
+    for r in fresh:
+        base = slim(r)
+        k = key_of(base)
+        if k in merged:
+            merged[k]["_lastSeen"] = TODAY
+        else:
+            base["_firstSeen"] = TODAY
+            base["_lastSeen"] = TODAY
+            merged[k] = base
+            new_count += 1
+    return list(merged.values()), new_count
+
+
 ok = 0
 for api, outfile in TARGETS:
     print(api)
@@ -62,9 +121,11 @@ for api, outfile in TARGETS:
     except Exception as e:
         print("  실패:", e)
         continue
+    merged, new_count = merge(outfile, items)
     with open(outfile, "w", encoding="utf-8") as f:
-        json.dump(items, f, ensure_ascii=False, indent=2)
-    print("  저장:", outfile, len(items), "/ 전체", total, "건")
+        json.dump(merged, f, ensure_ascii=False, indent=2)
+    print("  이번에 받은 건수:", len(items), "/ 전체", total, "건")
+    print("  새로 추가:", new_count, "건, 누적 저장:", outfile, len(merged), "건")
     ok += 1
 
 if ok == 0:
