@@ -59,10 +59,26 @@
       background: #f7f9fc;
     }
 
-    #status {
+    .status {
       color: #666;
       font-size: 14px;
       margin: 8px 0 14px;
+    }
+
+    .more {
+      display: block;
+      margin: 20px auto 0;
+      padding: 10px 28px;
+      font-size: 15px;
+      color: white;
+      background: #243b55;
+      border: 0;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+
+    .more:hover {
+      background: #35527a;
     }
 
     footer {
@@ -101,24 +117,46 @@
       활용합니다.
     </p>
 
-    <h2>실종 정보 목록</h2>
-    <div id="status">불러오는 중...</div>
+    <h2>실종 정보 목록 1 (실종경보)</h2>
+    <div class="status" id="status-amber">불러오는 중...</div>
     <div class="table-wrap">
       <table>
         <thead>
           <tr>
             <th>이름</th>
             <th>나이</th>
-            <th>시간(24시)</th>
+            <th>발생일</th>
             <th>성별</th>
             <th>장소(시)</th>
             <th>장소(군)</th>
             <th>장소(동)</th>
           </tr>
         </thead>
-        <tbody id="tbody"></tbody>
+        <tbody id="tbody-amber"></tbody>
       </table>
     </div>
+    <button class="more" id="more-amber" type="button">더 보기</button>
+
+    <h2>실종 정보 목록 2 (실종아동 등)</h2>
+    <div class="status" id="status-child">불러오는 중...</div>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>이름</th>
+            <th>나이</th>
+            <th>발생일</th>
+            <th>성별</th>
+            <th>장소(시)</th>
+            <th>장소(군)</th>
+            <th>장소(동)</th>
+          </tr>
+        </thead>
+        <tbody id="tbody-child"></tbody>
+      </table>
+    </div>
+    <button class="more" id="more-child" type="button">더 보기</button>
+
   </main>
 
   <footer>
@@ -127,23 +165,22 @@
 
   <script>
     // ---- 설정 ----
-    const DATA_URL = "data.json";   // 같은 폴더의 JSON 파일 (아래 설명 참고)
+    // ---- 설정 ----
+    const LISTS = [
+      { key: "amber", file: "amber.json" },   // 목록 1: 실종경보
+      { key: "child", file: "child.json" }    // 목록 2: 실종아동 등
+    ];
+    const PAGE_SIZE = 20;           // "더 보기"를 누를 때마다 추가로 보여줄 건수
     const MASK_NAME = true;         // true: 이름 가운데 글자를 ○로 가림 (김○수)
 
-    // API 응답의 필드 이름. 실제 응답과 다르면 여기만 고치세요.
+    // API 응답의 필드 이름 (명세 기준)
     const FIELD = {
       name: "nm",
       age: "age",             // 당시 나이. 현재 나이는 "ageNow"
-      occurred: "occrde",     // 발생일시
+      occurred: "occrde",     // 발생일 (날짜만 제공, 시각 없음)
       gender: "sexdstnDscd",
-      address: "occrAdres"    // "서울특별시 강남구 역삼동 ..." 형태
+      address: "occrAdres"    // "서울시 성북구 정릉동" 형태
     };
-
-    // 파일이 없을 때 보여줄 예시 데이터 (가상의 값)
-    const SAMPLE = [
-      { nm: "홍길동", age: 7,  occrde: "202610301430", sexdstnDscd: "남자", occrAdres: "서울특별시 강남구 역삼동" },
-      { nm: "김영희", age: 82, occrde: "202610311905", sexdstnDscd: "여자", occrAdres: "부산광역시 해운대구 우동" }
-    ];
 
     // ---- 가공 함수 ----
     function maskName(name) {
@@ -152,10 +189,10 @@
       return name[0] + "○".repeat(name.length - 2) + name[name.length - 1];
     }
 
-    // "202610301430" -> "14:30", 날짜만 있으면 "-"
-    function formatTime(v) {
-      const s = String(v || "").replace(/\D/g, "");
-      if (s.length >= 12) return s.slice(8, 10) + ":" + s.slice(10, 12);
+    // "20121016" -> "2012-10-16"
+    function formatDate(item) {
+      const s = String(item[FIELD.occurred] || "").replace(/\D/g, "");
+      if (s.length >= 8) return s.slice(0, 4) + "-" + s.slice(4, 6) + "-" + s.slice(6, 8);
       return "-";
     }
 
@@ -164,15 +201,13 @@
       return { si: p[0] || "-", gun: p[1] || "-", dong: p[2] || "-" };
     }
 
-    function render(list) {
-      const tbody = document.getElementById("tbody");
-      tbody.innerHTML = "";
+    function addRows(tbody, list) {
       list.forEach(item => {
         const loc = splitAddress(item[FIELD.address]);
         const cells = [
           maskName(item[FIELD.name]),
           item[FIELD.age] ?? "-",
-          formatTime(item[FIELD.occurred]),
+          formatDate(item),
           item[FIELD.gender] || "-",
           loc.si, loc.gun, loc.dong
         ];
@@ -186,22 +221,37 @@
       });
     }
 
-    async function load() {
-      const status = document.getElementById("status");
+    async function setupList(cfg) {
+      const tbody = document.getElementById("tbody-" + cfg.key);
+      const status = document.getElementById("status-" + cfg.key);
+      const more = document.getElementById("more-" + cfg.key);
+      let all = [];
+      let shown = 0;
+
       try {
-        const res = await fetch(DATA_URL);
+        const res = await fetch(cfg.file);
         if (!res.ok) throw new Error(res.status);
         const json = await res.json();
-        const list = Array.isArray(json) ? json : (json.list || []);
-        render(list);
-        status.textContent = "총 " + list.length + "건";
+        all = Array.isArray(json) ? json : (json.list || []);
       } catch (e) {
-        render(SAMPLE);
-        status.textContent = "data.json을 찾지 못해 예시 데이터를 표시합니다.";
+        status.textContent = cfg.file + " 파일을 불러오지 못했습니다.";
+        more.style.display = "none";
+        return;
       }
+
+      function showMore() {
+        const next = all.slice(shown, shown + PAGE_SIZE);
+        addRows(tbody, next);
+        shown += next.length;
+        status.textContent = "총 " + all.length + "건 중 " + shown + "건 표시";
+        more.style.display = shown >= all.length ? "none" : "block";
+      }
+
+      more.addEventListener("click", showMore);
+      showMore();
     }
 
-    load();
+    LISTS.forEach(setupList);
   </script>
 
 </body>
