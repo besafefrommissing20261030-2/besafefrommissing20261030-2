@@ -1138,5 +1138,45 @@
     "writngTrgetDscd": "070",
     "_firstSeen": "2026-11-03",
     "_lastSeen": "2026-11-03"
+  },
+  {
+    "nm": "이○호",
+    "age": 66,
+    "occrde": "20261103",
+    "sexdstnDscd": "남자",
+    "occrAdres": "충청북도 진천군 덕산읍 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-03",
+    "_lastSeen": "2026-11-03"
+  },
+  {
+    "nm": "한○애",
+    "age": 78,
+    "occrde": "20261103",
+    "sexdstnDscd": "여자",
+    "occrAdres": "서울 중랑구 봉화산로 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-03",
+    "_lastSeen": "2026-11-03"
+  },
+  {
+    "nm": "주○숙",
+    "age": 57,
+    "occrde": "20261103",
+    "sexdstnDscd": "여자",
+    "occrAdres": "서울특별시 양천구 신월동 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-03",
+    "_lastSeen": "2026-11-03"
+  },
+  {
+    "nm": "문○한",
+    "age": 17,
+    "occrde": "20261102",
+    "sexdstnDscd": "남자",
+    "occrAdres": "전남광주통합특별시 광양시 광장로 ",
+    "writngTrgetDscd": "010",
+    "_firstSeen": "2026-11-03",
+    "_lastSeen": "2026-11-03"
   }
 ]
