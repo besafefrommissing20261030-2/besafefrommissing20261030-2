@@ -1178,5 +1178,55 @@
     "writngTrgetDscd": "010",
     "_firstSeen": "2026-11-03",
     "_lastSeen": "2026-11-03"
+  },
+  {
+    "nm": "김○태",
+    "age": 83,
+    "occrde": "20261103",
+    "sexdstnDscd": "남자",
+    "occrAdres": "부산광역시 해운대구 우동,센섬센시빌아파트 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-03",
+    "_lastSeen": "2026-11-03"
+  },
+  {
+    "nm": "동○태",
+    "age": 69,
+    "occrde": "20261103",
+    "sexdstnDscd": "남자",
+    "occrAdres": "안산시 단원구 군자주공15단지 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-03",
+    "_lastSeen": "2026-11-03"
+  },
+  {
+    "nm": "강○욱",
+    "age": 19,
+    "occrde": "20261103",
+    "sexdstnDscd": "남자",
+    "occrAdres": "서울특별시 노원구 한글비석로24가길 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-03",
+    "_lastSeen": "2026-11-03"
+  },
+  {
+    "nm": "홍○기",
+    "age": 68,
+    "occrde": "20261102",
+    "sexdstnDscd": "남자",
+    "occrAdres": "서울 강북구 오현로 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-03",
+    "_lastSeen": "2026-11-03"
+  },
+  {
+    "nm": "심○심",
+    "age": 78,
+    "occrde": "20261103",
+    "sexdstnDscd": "여자",
+    "occrAdres": "동안치매안심센터",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-03",
+    "_lastSeen": "2026-11-03"
   }
 ]
