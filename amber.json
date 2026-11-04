@@ -1248,5 +1248,65 @@
     "writngTrgetDscd": "070",
     "_firstSeen": "2026-11-04",
     "_lastSeen": "2026-11-04"
+  },
+  {
+    "nm": "김○옥",
+    "age": 88,
+    "occrde": "20261104",
+    "sexdstnDscd": "남자",
+    "occrAdres": "울산 남구 신정동 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-04",
+    "_lastSeen": "2026-11-04"
+  },
+  {
+    "nm": "서○석",
+    "age": 78,
+    "occrde": "20261104",
+    "sexdstnDscd": "남자",
+    "occrAdres": "경기도 수원시 장안구 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-04",
+    "_lastSeen": "2026-11-04"
+  },
+  {
+    "nm": "고○경",
+    "age": 70,
+    "occrde": "20261104",
+    "sexdstnDscd": "여자",
+    "occrAdres": "서울특별시 영등포구 국회대로 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-04",
+    "_lastSeen": "2026-11-04"
+  },
+  {
+    "nm": "박○민",
+    "age": 39,
+    "occrde": "20261104",
+    "sexdstnDscd": "남자",
+    "occrAdres": "대구 동구 과학로 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-04",
+    "_lastSeen": "2026-11-04"
+  },
+  {
+    "nm": "서○쁨",
+    "age": 25,
+    "occrde": "20261104",
+    "sexdstnDscd": "여자",
+    "occrAdres": "전북특별자치도 익산시 황등3길 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-04",
+    "_lastSeen": "2026-11-04"
+  },
+  {
+    "nm": "양○석",
+    "age": 80,
+    "occrde": "20261103",
+    "sexdstnDscd": "남자",
+    "occrAdres": "광주 북구 동림용산로 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-04",
+    "_lastSeen": "2026-11-04"
   }
 ]
