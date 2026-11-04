@@ -1228,5 +1228,25 @@
     "writngTrgetDscd": "070",
     "_firstSeen": "2026-11-03",
     "_lastSeen": "2026-11-04"
+  },
+  {
+    "nm": "최○옥",
+    "age": 60,
+    "occrde": "20261103",
+    "sexdstnDscd": "여자",
+    "occrAdres": "서울특별시 송파구 올림픽로 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-04",
+    "_lastSeen": "2026-11-04"
+  },
+  {
+    "nm": "이○상",
+    "age": 61,
+    "occrde": "20261031",
+    "sexdstnDscd": "여자",
+    "occrAdres": "충청남도 아산시 동방로 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-04",
+    "_lastSeen": "2026-11-04"
   }
 ]
