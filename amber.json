@@ -1318,5 +1318,15 @@
     "writngTrgetDscd": "070",
     "_firstSeen": "2026-11-05",
     "_lastSeen": "2026-11-05"
+  },
+  {
+    "nm": "김○랑",
+    "age": 11,
+    "occrde": "20261104",
+    "sexdstnDscd": "여자",
+    "occrAdres": "서울특별시 송파구 마천동 ",
+    "writngTrgetDscd": "010",
+    "_firstSeen": "2026-11-05",
+    "_lastSeen": "2026-11-05"
   }
 ]
