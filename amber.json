@@ -1328,5 +1328,25 @@
     "writngTrgetDscd": "010",
     "_firstSeen": "2026-11-05",
     "_lastSeen": "2026-11-05"
+  },
+  {
+    "nm": "김○식",
+    "age": 64,
+    "occrde": "20261105",
+    "sexdstnDscd": "남자",
+    "occrAdres": "경기 수원시영통구 삼성로268번길 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-05",
+    "_lastSeen": "2026-11-05"
+  },
+  {
+    "nm": "정○회",
+    "age": 49,
+    "occrde": "20261105",
+    "sexdstnDscd": "남자",
+    "occrAdres": "광주 동구 중흥로227번길 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-05",
+    "_lastSeen": "2026-11-05"
   }
 ]
