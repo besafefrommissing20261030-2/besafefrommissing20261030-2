@@ -1488,5 +1488,55 @@
     "writngTrgetDscd": "070",
     "_firstSeen": "2026-11-07",
     "_lastSeen": "2026-11-07"
+  },
+  {
+    "nm": "김○윤",
+    "age": 17,
+    "occrde": "20261107",
+    "sexdstnDscd": "남자",
+    "occrAdres": "부산광역시 연제구 과정로 ",
+    "writngTrgetDscd": "061",
+    "_firstSeen": "2026-11-07",
+    "_lastSeen": "2026-11-07"
+  },
+  {
+    "nm": "송○자",
+    "age": 85,
+    "occrde": "20261107",
+    "sexdstnDscd": "여자",
+    "occrAdres": "6층",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-07",
+    "_lastSeen": "2026-11-07"
+  },
+  {
+    "nm": "이○례",
+    "age": 78,
+    "occrde": "20261107",
+    "sexdstnDscd": "여자",
+    "occrAdres": "경기 안산시상록구 본오로1길 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-07",
+    "_lastSeen": "2026-11-07"
+  },
+  {
+    "nm": "장○영",
+    "age": 89,
+    "occrde": "20261107",
+    "sexdstnDscd": "남자",
+    "occrAdres": "부산광역시 사하구 다송로 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-07",
+    "_lastSeen": "2026-11-07"
+  },
+  {
+    "nm": "현○환",
+    "age": 37,
+    "occrde": "20261106",
+    "sexdstnDscd": "남자",
+    "occrAdres": "경기도 고양시 일산동구 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-07",
+    "_lastSeen": "2026-11-07"
   }
 ]
