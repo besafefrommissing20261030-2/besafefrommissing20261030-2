@@ -1548,5 +1548,45 @@
     "writngTrgetDscd": "010",
     "_firstSeen": "2026-11-08",
     "_lastSeen": "2026-11-08"
+  },
+  {
+    "nm": "김○수",
+    "age": 38,
+    "occrde": "20261108",
+    "sexdstnDscd": "남자",
+    "occrAdres": "경기도 고양시 덕양구 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-08",
+    "_lastSeen": "2026-11-08"
+  },
+  {
+    "nm": "김○승",
+    "age": 64,
+    "occrde": "20261108",
+    "sexdstnDscd": "남자",
+    "occrAdres": "광주 서구 치평로 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-08",
+    "_lastSeen": "2026-11-08"
+  },
+  {
+    "nm": "윤○용",
+    "age": 78,
+    "occrde": "20261107",
+    "sexdstnDscd": "남자",
+    "occrAdres": "서울 은평구 진흥로11길 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-08",
+    "_lastSeen": "2026-11-08"
+  },
+  {
+    "nm": "조○식",
+    "age": 86,
+    "occrde": "20261108",
+    "sexdstnDscd": "남자",
+    "occrAdres": "서울 은평구 불광천길 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-08",
+    "_lastSeen": "2026-11-08"
   }
 ]
