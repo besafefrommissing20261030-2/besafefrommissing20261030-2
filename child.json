@@ -3538,5 +3538,115 @@
     "writngTrgetDscd": "070",
     "_firstSeen": "2026-11-09",
     "_lastSeen": "2026-11-09"
+  },
+  {
+    "nm": "조○윤",
+    "age": 18,
+    "occrde": "20261109",
+    "sexdstnDscd": "남자",
+    "occrAdres": "서울특별시 성북구 종암로 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-09",
+    "_lastSeen": "2026-11-09"
+  },
+  {
+    "nm": "조○일",
+    "age": 85,
+    "occrde": "20261109",
+    "sexdstnDscd": "남자",
+    "occrAdres": "서울 서대문구 홍제동 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-09",
+    "_lastSeen": "2026-11-09"
+  },
+  {
+    "nm": "이○계",
+    "age": 78,
+    "occrde": "20261109",
+    "sexdstnDscd": "여자",
+    "occrAdres": "대구광역시 중구 달성로 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-09",
+    "_lastSeen": "2026-11-09"
+  },
+  {
+    "nm": "강○웅",
+    "age": 78,
+    "occrde": "20261109",
+    "sexdstnDscd": "남자",
+    "occrAdres": "울산광역시 북구 호계10길 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-09",
+    "_lastSeen": "2026-11-09"
+  },
+  {
+    "nm": "이○옥",
+    "age": 79,
+    "occrde": "20261109",
+    "sexdstnDscd": "여자",
+    "occrAdres": "서울특별시 노원구 한글비석로 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-09",
+    "_lastSeen": "2026-11-09"
+  },
+  {
+    "nm": "최○길",
+    "age": 60,
+    "occrde": "20261109",
+    "sexdstnDscd": "남자",
+    "occrAdres": "충남 천안시동남구 구성동,세인트요양병원",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-09",
+    "_lastSeen": "2026-11-09"
+  },
+  {
+    "nm": "조○찬",
+    "age": 79,
+    "occrde": "20261109",
+    "sexdstnDscd": "남자",
+    "occrAdres": "서울특별시 송파구 송파대로 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-09",
+    "_lastSeen": "2026-11-09"
+  },
+  {
+    "nm": "김○수",
+    "age": 77,
+    "occrde": "20261108",
+    "sexdstnDscd": "남자",
+    "occrAdres": "경기 수원시권선구 삼천병마로1566번길 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-09",
+    "_lastSeen": "2026-11-09"
+  },
+  {
+    "nm": "노○암",
+    "age": 79,
+    "occrde": "20261109",
+    "sexdstnDscd": "남자",
+    "occrAdres": "전북특별자치도 전주시 완산구 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-09",
+    "_lastSeen": "2026-11-09"
+  },
+  {
+    "nm": "서○기",
+    "age": 88,
+    "occrde": "20261109",
+    "sexdstnDscd": "남자",
+    "occrAdres": "대전광역시 중구 중앙로59번길 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-09",
+    "_lastSeen": "2026-11-09"
+  },
+  {
+    "nm": "양○정",
+    "age": 45,
+    "occrde": "20261107",
+    "sexdstnDscd": "여자",
+    "occrAdres": "경기도 남양주시 먹갓로27번길 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-09",
+    "_lastSeen": "2026-11-09"
   }
 ]
