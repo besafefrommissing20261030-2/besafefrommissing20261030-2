@@ -1708,5 +1708,15 @@
     "writngTrgetDscd": "062",
     "_firstSeen": "2026-11-10",
     "_lastSeen": "2026-11-10"
+  },
+  {
+    "nm": "박○자",
+    "age": 67,
+    "occrde": "20261108",
+    "sexdstnDscd": "여자",
+    "occrAdres": "대구 달서구 구마로12길 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-10",
+    "_lastSeen": "2026-11-10"
   }
 ]
