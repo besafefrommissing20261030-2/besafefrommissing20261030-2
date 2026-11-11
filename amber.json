@@ -1788,5 +1788,35 @@
     "writngTrgetDscd": "070",
     "_firstSeen": "2026-11-10",
     "_lastSeen": "2026-11-11"
+  },
+  {
+    "nm": "방○진",
+    "age": 67,
+    "occrde": "20261110",
+    "sexdstnDscd": "남자",
+    "occrAdres": "경기도 안산시 상록구 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-11",
+    "_lastSeen": "2026-11-11"
+  },
+  {
+    "nm": "임○자",
+    "age": 57,
+    "occrde": "20261110",
+    "sexdstnDscd": "여자",
+    "occrAdres": "전북특별자치도 완주군 소양로 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-11",
+    "_lastSeen": "2026-11-11"
+  },
+  {
+    "nm": "강○서",
+    "age": 15,
+    "occrde": "20261110",
+    "sexdstnDscd": "여자",
+    "occrAdres": "서울특별시 마포구 독막로 ",
+    "writngTrgetDscd": "010",
+    "_firstSeen": "2026-11-11",
+    "_lastSeen": "2026-11-11"
   }
 ]
