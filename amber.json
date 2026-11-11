@@ -1818,5 +1818,55 @@
     "writngTrgetDscd": "010",
     "_firstSeen": "2026-11-11",
     "_lastSeen": "2026-11-11"
+  },
+  {
+    "nm": "석○구",
+    "age": 64,
+    "occrde": "20261111",
+    "sexdstnDscd": "남자",
+    "occrAdres": "충북 청주시청원구 내수읍 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-11",
+    "_lastSeen": "2026-11-11"
+  },
+  {
+    "nm": "배○석",
+    "age": 78,
+    "occrde": "20261111",
+    "sexdstnDscd": "남자",
+    "occrAdres": "대구광역시 달서구 달구벌대로 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-11",
+    "_lastSeen": "2026-11-11"
+  },
+  {
+    "nm": "함○연",
+    "age": 77,
+    "occrde": "20261111",
+    "sexdstnDscd": "여자",
+    "occrAdres": "홍대입구역",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-11",
+    "_lastSeen": "2026-11-11"
+  },
+  {
+    "nm": "이○원",
+    "age": 86,
+    "occrde": "20261111",
+    "sexdstnDscd": "여자",
+    "occrAdres": "부산광역시 동래구 충렬대로348번길 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-11",
+    "_lastSeen": "2026-11-11"
+  },
+  {
+    "nm": "최○나",
+    "age": 14,
+    "occrde": "20261110",
+    "sexdstnDscd": "여자",
+    "occrAdres": "경기도 의정부시 의정로132번길 ",
+    "writngTrgetDscd": "010",
+    "_firstSeen": "2026-11-11",
+    "_lastSeen": "2026-11-11"
   }
 ]
