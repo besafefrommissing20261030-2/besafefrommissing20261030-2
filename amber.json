@@ -1888,5 +1888,95 @@
     "writngTrgetDscd": "070",
     "_firstSeen": "2026-11-12",
     "_lastSeen": "2026-11-12"
+  },
+  {
+    "nm": "이○재",
+    "age": 12,
+    "occrde": "20261112",
+    "sexdstnDscd": "남자",
+    "occrAdres": "경상남도 거제시 거제중앙로 ",
+    "writngTrgetDscd": "010",
+    "_firstSeen": "2026-11-12",
+    "_lastSeen": "2026-11-12"
+  },
+  {
+    "nm": "장○순",
+    "age": 80,
+    "occrde": "20261112",
+    "sexdstnDscd": "남자",
+    "occrAdres": "충남 천안시서북구 입장면 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-12",
+    "_lastSeen": "2026-11-12"
+  },
+  {
+    "nm": "정○만",
+    "age": 74,
+    "occrde": "20261112",
+    "sexdstnDscd": "남자",
+    "occrAdres": "서울특별시 강동구 양재대로 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-12",
+    "_lastSeen": "2026-11-12"
+  },
+  {
+    "nm": "김○엽",
+    "age": 79,
+    "occrde": "20261112",
+    "sexdstnDscd": "여자",
+    "occrAdres": "대전광역시 동구 계족로423번길 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-12",
+    "_lastSeen": "2026-11-12"
+  },
+  {
+    "nm": "강○옥",
+    "age": 68,
+    "occrde": "20261112",
+    "sexdstnDscd": "여자",
+    "occrAdres": "서울특별시 송파구 문정로13길 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-12",
+    "_lastSeen": "2026-11-12"
+  },
+  {
+    "nm": "이○영",
+    "age": 32,
+    "occrde": "20261112",
+    "sexdstnDscd": "남자",
+    "occrAdres": "울산광역시 남구 신정로 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-12",
+    "_lastSeen": "2026-11-12"
+  },
+  {
+    "nm": "이○숙",
+    "age": 68,
+    "occrde": "20261112",
+    "sexdstnDscd": "여자",
+    "occrAdres": "인천광역시 남동구 구월동 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-12",
+    "_lastSeen": "2026-11-12"
+  },
+  {
+    "nm": "동○태",
+    "age": 69,
+    "occrde": "20261112",
+    "sexdstnDscd": "남자",
+    "occrAdres": "경기 안산시단원구 원선1로 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-12",
+    "_lastSeen": "2026-11-12"
+  },
+  {
+    "nm": "이○연",
+    "age": 13,
+    "occrde": "20261110",
+    "sexdstnDscd": "여자",
+    "occrAdres": "울산광역시 북구 명촌10길 ",
+    "writngTrgetDscd": "010",
+    "_firstSeen": "2026-11-12",
+    "_lastSeen": "2026-11-12"
   }
 ]
