@@ -1868,5 +1868,25 @@
     "writngTrgetDscd": "010",
     "_firstSeen": "2026-11-11",
     "_lastSeen": "2026-11-12"
+  },
+  {
+    "nm": "황○우",
+    "age": 49,
+    "occrde": "20261112",
+    "sexdstnDscd": "남자",
+    "occrAdres": "서울 광진구 능동로 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-12",
+    "_lastSeen": "2026-11-12"
+  },
+  {
+    "nm": "지○영",
+    "age": 73,
+    "occrde": "20261112",
+    "sexdstnDscd": "여자",
+    "occrAdres": "부산광역시 연제구 배산북로 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-12",
+    "_lastSeen": "2026-11-12"
   }
 ]
