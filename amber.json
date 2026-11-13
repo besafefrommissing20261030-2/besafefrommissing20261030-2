@@ -1998,5 +1998,45 @@
     "writngTrgetDscd": "062",
     "_firstSeen": "2026-11-13",
     "_lastSeen": "2026-11-13"
+  },
+  {
+    "nm": "이○환",
+    "age": 84,
+    "occrde": "20261113",
+    "sexdstnDscd": "남자",
+    "occrAdres": "대구 북구 대현로서15길 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-13",
+    "_lastSeen": "2026-11-13"
+  },
+  {
+    "nm": "천○자",
+    "age": 74,
+    "occrde": "20261110",
+    "sexdstnDscd": "여자",
+    "occrAdres": "전북 남원시 동문로 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-13",
+    "_lastSeen": "2026-11-13"
+  },
+  {
+    "nm": "서○선",
+    "age": 73,
+    "occrde": "20261113",
+    "sexdstnDscd": "여자",
+    "occrAdres": "서울특별시 종로구 팔판길 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-13",
+    "_lastSeen": "2026-11-13"
+  },
+  {
+    "nm": "김○희",
+    "age": 53,
+    "occrde": "20261111",
+    "sexdstnDscd": "남자",
+    "occrAdres": "서울특별시 노원구 노원로16길 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-13",
+    "_lastSeen": "2026-11-13"
   }
 ]
