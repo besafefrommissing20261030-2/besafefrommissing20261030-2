@@ -1978,5 +1978,25 @@
     "writngTrgetDscd": "010",
     "_firstSeen": "2026-11-12",
     "_lastSeen": "2026-11-13"
+  },
+  {
+    "nm": "이○빈",
+    "age": 17,
+    "occrde": "20261112",
+    "sexdstnDscd": "여자",
+    "occrAdres": "부산광역시 동래구 충렬사로51번길 ",
+    "writngTrgetDscd": "010",
+    "_firstSeen": "2026-11-13",
+    "_lastSeen": "2026-11-13"
+  },
+  {
+    "nm": "조○정",
+    "age": 45,
+    "occrde": "20261111",
+    "sexdstnDscd": "여자",
+    "occrAdres": "경기도 안양시 만안구 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-13",
+    "_lastSeen": "2026-11-13"
   }
 ]
