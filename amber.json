@@ -2048,5 +2048,55 @@
     "writngTrgetDscd": "070",
     "_firstSeen": "2026-11-14",
     "_lastSeen": "2026-11-14"
+  },
+  {
+    "nm": "최○비",
+    "age": 9,
+    "occrde": "20261114",
+    "sexdstnDscd": "여자",
+    "occrAdres": "서울 도봉구 도봉로153길 ",
+    "writngTrgetDscd": "010",
+    "_firstSeen": "2026-11-14",
+    "_lastSeen": "2026-11-14"
+  },
+  {
+    "nm": "강○관",
+    "age": 67,
+    "occrde": "20261114",
+    "sexdstnDscd": "남자",
+    "occrAdres": "경상남도 김해시 부곡동 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-14",
+    "_lastSeen": "2026-11-14"
+  },
+  {
+    "nm": "김○",
+    "age": 51,
+    "occrde": "20261114",
+    "sexdstnDscd": "남자",
+    "occrAdres": "인천시 남동구 남동대로 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-14",
+    "_lastSeen": "2026-11-14"
+  },
+  {
+    "nm": "신○일",
+    "age": 78,
+    "occrde": "20261113",
+    "sexdstnDscd": "남자",
+    "occrAdres": "서울 구로구 중앙로6길 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-14",
+    "_lastSeen": "2026-11-14"
+  },
+  {
+    "nm": "정○주",
+    "age": 44,
+    "occrde": "20261110",
+    "sexdstnDscd": "남자",
+    "occrAdres": "부산광역시 영도구 하나길 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-14",
+    "_lastSeen": "2026-11-14"
   }
 ]
