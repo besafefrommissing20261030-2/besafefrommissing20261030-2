@@ -2108,5 +2108,65 @@
     "writngTrgetDscd": "010",
     "_firstSeen": "2026-11-15",
     "_lastSeen": "2026-11-15"
+  },
+  {
+    "nm": "한○숙",
+    "age": 76,
+    "occrde": "20261115",
+    "sexdstnDscd": "여자",
+    "occrAdres": "울산 남구 신정로 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-15",
+    "_lastSeen": "2026-11-15"
+  },
+  {
+    "nm": "임○남",
+    "age": 81,
+    "occrde": "20261115",
+    "sexdstnDscd": "남자",
+    "occrAdres": "서울특별시 관악구 봉천로 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-15",
+    "_lastSeen": "2026-11-15"
+  },
+  {
+    "nm": "오○용",
+    "age": 79,
+    "occrde": "20261115",
+    "sexdstnDscd": "남자",
+    "occrAdres": "경기도 수원시 장안구 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-15",
+    "_lastSeen": "2026-11-15"
+  },
+  {
+    "nm": "김○선",
+    "age": 82,
+    "occrde": "20261115",
+    "sexdstnDscd": "남자",
+    "occrAdres": "대전광역시 유성구 과학성장로 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-15",
+    "_lastSeen": "2026-11-15"
+  },
+  {
+    "nm": "김○선",
+    "age": 83,
+    "occrde": "20261115",
+    "sexdstnDscd": "남자",
+    "occrAdres": "서울 강북구 삼양로163길 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-15",
+    "_lastSeen": "2026-11-15"
+  },
+  {
+    "nm": "이○경",
+    "age": 58,
+    "occrde": "20261115",
+    "sexdstnDscd": "여자",
+    "occrAdres": "전남광주통합특별시 광산구 우산로 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-15",
+    "_lastSeen": "2026-11-15"
   }
 ]
