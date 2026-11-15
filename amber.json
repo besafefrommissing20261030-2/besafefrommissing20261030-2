@@ -2098,5 +2098,15 @@
     "writngTrgetDscd": "062",
     "_firstSeen": "2026-11-14",
     "_lastSeen": "2026-11-15"
+  },
+  {
+    "nm": "이○주",
+    "age": 17,
+    "occrde": "20261114",
+    "sexdstnDscd": "여자",
+    "occrAdres": "경기도 광주시 신현로 ",
+    "writngTrgetDscd": "010",
+    "_firstSeen": "2026-11-15",
+    "_lastSeen": "2026-11-15"
   }
 ]
