@@ -2178,5 +2178,35 @@
     "writngTrgetDscd": "070",
     "_firstSeen": "2026-11-16",
     "_lastSeen": "2026-11-16"
+  },
+  {
+    "nm": "김○현",
+    "age": 13,
+    "occrde": "20261115",
+    "sexdstnDscd": "남자",
+    "occrAdres": "울산광역시 남구 왕생로10번길 ",
+    "writngTrgetDscd": "010",
+    "_firstSeen": "2026-11-16",
+    "_lastSeen": "2026-11-16"
+  },
+  {
+    "nm": "최○영",
+    "age": 77,
+    "occrde": "20261115",
+    "sexdstnDscd": "남자",
+    "occrAdres": "전남광주통합특별시 남구 주월동 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-16",
+    "_lastSeen": "2026-11-16"
+  },
+  {
+    "nm": "양○현",
+    "age": 14,
+    "occrde": "20261115",
+    "sexdstnDscd": "남자",
+    "occrAdres": "경기도 남양주시 덕소로71번길 ",
+    "writngTrgetDscd": "010",
+    "_firstSeen": "2026-11-16",
+    "_lastSeen": "2026-11-16"
   }
 ]
