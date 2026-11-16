@@ -2208,5 +2208,85 @@
     "writngTrgetDscd": "010",
     "_firstSeen": "2026-11-16",
     "_lastSeen": "2026-11-16"
+  },
+  {
+    "nm": "황○자",
+    "age": 80,
+    "occrde": "20261116",
+    "sexdstnDscd": "여자",
+    "occrAdres": "충북 청주시서원구 모충로 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-16",
+    "_lastSeen": "2026-11-16"
+  },
+  {
+    "nm": "고○준",
+    "age": 53,
+    "occrde": "20261116",
+    "sexdstnDscd": "남자",
+    "occrAdres": "부산광역시 연제구 월드컵대로 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-16",
+    "_lastSeen": "2026-11-16"
+  },
+  {
+    "nm": "주○규",
+    "age": 81,
+    "occrde": "20261116",
+    "sexdstnDscd": "남자",
+    "occrAdres": "서울 중구 장충단로13길 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-16",
+    "_lastSeen": "2026-11-16"
+  },
+  {
+    "nm": "정○섭",
+    "age": 89,
+    "occrde": "20261116",
+    "sexdstnDscd": "남자",
+    "occrAdres": "인천 미추홀구 용현동 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-16",
+    "_lastSeen": "2026-11-16"
+  },
+  {
+    "nm": "최○권",
+    "age": 85,
+    "occrde": "20261116",
+    "sexdstnDscd": "남자",
+    "occrAdres": "경기 고양시일산동구 원중길 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-16",
+    "_lastSeen": "2026-11-16"
+  },
+  {
+    "nm": "최○복",
+    "age": 66,
+    "occrde": "20261116",
+    "sexdstnDscd": "남자",
+    "occrAdres": "서울특별시 광진구 천호대로 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-16",
+    "_lastSeen": "2026-11-16"
+  },
+  {
+    "nm": "김○수",
+    "age": 47,
+    "occrde": "20261114",
+    "sexdstnDscd": "남자",
+    "occrAdres": "대구광역시 중구 남산로7길 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-16",
+    "_lastSeen": "2026-11-16"
+  },
+  {
+    "nm": "김○길",
+    "age": 60,
+    "occrde": "20261115",
+    "sexdstnDscd": "남자",
+    "occrAdres": "경기 부천시원미구 부흥로413번길 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-16",
+    "_lastSeen": "2026-11-16"
   }
 ]
