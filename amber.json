@@ -2288,5 +2288,55 @@
     "writngTrgetDscd": "062",
     "_firstSeen": "2026-11-16",
     "_lastSeen": "2026-11-17"
+  },
+  {
+    "nm": "전○분",
+    "age": 51,
+    "occrde": "20261117",
+    "sexdstnDscd": "여자",
+    "occrAdres": "충청남도 보령시 주포면 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-17",
+    "_lastSeen": "2026-11-17"
+  },
+  {
+    "nm": "강○운",
+    "age": 85,
+    "occrde": "20261117",
+    "sexdstnDscd": "남자",
+    "occrAdres": "대구 중구 중앙대로61길 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-17",
+    "_lastSeen": "2026-11-17"
+  },
+  {
+    "nm": "김○숙",
+    "age": 77,
+    "occrde": "20261117",
+    "sexdstnDscd": "여자",
+    "occrAdres": "경기도 용인시 처인구 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-17",
+    "_lastSeen": "2026-11-17"
+  },
+  {
+    "nm": "박○순",
+    "age": 73,
+    "occrde": "20261116",
+    "sexdstnDscd": "여자",
+    "occrAdres": "경상북도 경주시 북부리1길 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-17",
+    "_lastSeen": "2026-11-17"
+  },
+  {
+    "nm": "김○호",
+    "age": 16,
+    "occrde": "20261116",
+    "sexdstnDscd": "남자",
+    "occrAdres": "인천광역시 남동구 용천로194번길 ",
+    "writngTrgetDscd": "010",
+    "_firstSeen": "2026-11-17",
+    "_lastSeen": "2026-11-17"
   }
 ]
