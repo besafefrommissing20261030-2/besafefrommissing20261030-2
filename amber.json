@@ -2448,5 +2448,65 @@
     "writngTrgetDscd": "070",
     "_firstSeen": "2026-11-18",
     "_lastSeen": "2026-11-18"
+  },
+  {
+    "nm": "박○경",
+    "age": 41,
+    "occrde": "20261118",
+    "sexdstnDscd": "여자",
+    "occrAdres": "서울 구로구 구로동로17길 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-18",
+    "_lastSeen": "2026-11-18"
+  },
+  {
+    "nm": "김○한",
+    "age": 81,
+    "occrde": "20261118",
+    "sexdstnDscd": "남자",
+    "occrAdres": "심학산 정상",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-18",
+    "_lastSeen": "2026-11-18"
+  },
+  {
+    "nm": "최○수",
+    "age": 82,
+    "occrde": "20261118",
+    "sexdstnDscd": "여자",
+    "occrAdres": "서울특별시 강동구 성내로13길 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-18",
+    "_lastSeen": "2026-11-18"
+  },
+  {
+    "nm": "김○숙",
+    "age": 65,
+    "occrde": "20261118",
+    "sexdstnDscd": "여자",
+    "occrAdres": "서울 동작구 성대로12가길 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-18",
+    "_lastSeen": "2026-11-18"
+  },
+  {
+    "nm": "김○근",
+    "age": 76,
+    "occrde": "20261118",
+    "sexdstnDscd": "남자",
+    "occrAdres": "경기도 안양시 만안구 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-18",
+    "_lastSeen": "2026-11-18"
+  },
+  {
+    "nm": "하○원",
+    "age": 66,
+    "occrde": "20261118",
+    "sexdstnDscd": "남자",
+    "occrAdres": "광주 북구 오치동,101호",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-18",
+    "_lastSeen": "2026-11-18"
   }
 ]
