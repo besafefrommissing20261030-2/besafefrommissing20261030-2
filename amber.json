@@ -2518,5 +2518,35 @@
     "writngTrgetDscd": "070",
     "_firstSeen": "2026-11-19",
     "_lastSeen": "2026-11-19"
+  },
+  {
+    "nm": "송○현",
+    "age": 85,
+    "occrde": "20261119",
+    "sexdstnDscd": "남자",
+    "occrAdres": "서울특별시 중랑구 망우로 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-19",
+    "_lastSeen": "2026-11-19"
+  },
+  {
+    "nm": "임○훈",
+    "age": 11,
+    "occrde": "20261119",
+    "sexdstnDscd": "남자",
+    "occrAdres": "서울특별시 강남구 삼성로 ",
+    "writngTrgetDscd": "010",
+    "_firstSeen": "2026-11-19",
+    "_lastSeen": "2026-11-19"
+  },
+  {
+    "nm": "팽○자",
+    "age": 71,
+    "occrde": "20261111",
+    "sexdstnDscd": "여자",
+    "occrAdres": "경북 성주군 성주읍 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-19",
+    "_lastSeen": "2026-11-19"
   }
 ]
