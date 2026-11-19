@@ -2548,5 +2548,35 @@
     "writngTrgetDscd": "070",
     "_firstSeen": "2026-11-19",
     "_lastSeen": "2026-11-19"
+  },
+  {
+    "nm": "윤○자",
+    "age": 77,
+    "occrde": "20261119",
+    "sexdstnDscd": "여자",
+    "occrAdres": "서울특별시 강서구 곰달래로 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-19",
+    "_lastSeen": "2026-11-19"
+  },
+  {
+    "nm": "권○기",
+    "age": 79,
+    "occrde": "20261119",
+    "sexdstnDscd": "남자",
+    "occrAdres": "서울특별시 마포구 양화로 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-19",
+    "_lastSeen": "2026-11-19"
+  },
+  {
+    "nm": "김○업",
+    "age": 61,
+    "occrde": "20261119",
+    "sexdstnDscd": "남자",
+    "occrAdres": "경기도 김포시 김포대로 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-19",
+    "_lastSeen": "2026-11-19"
   }
 ]
