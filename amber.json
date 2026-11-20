@@ -2578,5 +2578,65 @@
     "writngTrgetDscd": "062",
     "_firstSeen": "2026-11-19",
     "_lastSeen": "2026-11-20"
+  },
+  {
+    "nm": "명○영",
+    "age": 79,
+    "occrde": "20261120",
+    "sexdstnDscd": "남자",
+    "occrAdres": "전남광주통합특별시 서구 회재로 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-20",
+    "_lastSeen": "2026-11-20"
+  },
+  {
+    "nm": "이○교",
+    "age": 76,
+    "occrde": "20261120",
+    "sexdstnDscd": "남자",
+    "occrAdres": "경기도 안양시 만안구 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-20",
+    "_lastSeen": "2026-11-20"
+  },
+  {
+    "nm": "전○옥",
+    "age": 72,
+    "occrde": "20261120",
+    "sexdstnDscd": "여자",
+    "occrAdres": "강원 춘천시 스포츠타운길 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-20",
+    "_lastSeen": "2026-11-20"
+  },
+  {
+    "nm": "박○남",
+    "age": 62,
+    "occrde": "20261120",
+    "sexdstnDscd": "여자",
+    "occrAdres": "전북특별자치도 전주시 덕진구 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-20",
+    "_lastSeen": "2026-11-20"
+  },
+  {
+    "nm": "정○남",
+    "age": 84,
+    "occrde": "20261120",
+    "sexdstnDscd": "남자",
+    "occrAdres": "부산 북구 금곡동 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-20",
+    "_lastSeen": "2026-11-20"
+  },
+  {
+    "nm": "김○년",
+    "age": 55,
+    "occrde": "20261108",
+    "sexdstnDscd": "남자",
+    "occrAdres": "서울특별시 도봉구 우이천로44길 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-20",
+    "_lastSeen": "2026-11-20"
   }
 ]
