@@ -2668,5 +2668,25 @@
     "writngTrgetDscd": "062",
     "_firstSeen": "2026-11-21",
     "_lastSeen": "2026-11-21"
+  },
+  {
+    "nm": "김○희",
+    "age": 75,
+    "occrde": "20261121",
+    "sexdstnDscd": "여자",
+    "occrAdres": "경북 포항시남구 지곡동 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-21",
+    "_lastSeen": "2026-11-21"
+  },
+  {
+    "nm": "임○빈",
+    "age": 15,
+    "occrde": "20261120",
+    "sexdstnDscd": "남자",
+    "occrAdres": "제주특별자치도 제주시 가령골2길 ",
+    "writngTrgetDscd": "010",
+    "_firstSeen": "2026-11-21",
+    "_lastSeen": "2026-11-21"
   }
 ]
