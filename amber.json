@@ -2718,5 +2718,65 @@
     "writngTrgetDscd": "070",
     "_firstSeen": "2026-11-22",
     "_lastSeen": "2026-11-22"
+  },
+  {
+    "nm": "권○화",
+    "age": 83,
+    "occrde": "20261122",
+    "sexdstnDscd": "남자",
+    "occrAdres": "서울특별시 도봉구 노해로69가길 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-22",
+    "_lastSeen": "2026-11-22"
+  },
+  {
+    "nm": "최○순",
+    "age": 72,
+    "occrde": "20261122",
+    "sexdstnDscd": "여자",
+    "occrAdres": "대구 남구 대명서3길 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-22",
+    "_lastSeen": "2026-11-22"
+  },
+  {
+    "nm": "박○종",
+    "age": 82,
+    "occrde": "20261122",
+    "sexdstnDscd": "남자",
+    "occrAdres": "서울특별시 마포구 월드컵로13길 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-22",
+    "_lastSeen": "2026-11-22"
+  },
+  {
+    "nm": "이○환",
+    "age": 13,
+    "occrde": "20261122",
+    "sexdstnDscd": "남자",
+    "occrAdres": "제주특별자치도 서귀포시 감산중로 ",
+    "writngTrgetDscd": "010",
+    "_firstSeen": "2026-11-22",
+    "_lastSeen": "2026-11-22"
+  },
+  {
+    "nm": "박○훈",
+    "age": 87,
+    "occrde": "20261122",
+    "sexdstnDscd": "남자",
+    "occrAdres": "경기도 용인시 수지구 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-22",
+    "_lastSeen": "2026-11-22"
+  },
+  {
+    "nm": "김○철",
+    "age": 82,
+    "occrde": "20261122",
+    "sexdstnDscd": "남자",
+    "occrAdres": "경기도 고양시 일산동구 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-22",
+    "_lastSeen": "2026-11-22"
   }
 ]
