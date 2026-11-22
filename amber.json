@@ -2688,5 +2688,35 @@
     "writngTrgetDscd": "010",
     "_firstSeen": "2026-11-21",
     "_lastSeen": "2026-11-21"
+  },
+  {
+    "nm": "김○정",
+    "age": 54,
+    "occrde": "20261121",
+    "sexdstnDscd": "여자",
+    "occrAdres": "인천광역시 남동구 호구포로765번길 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-22",
+    "_lastSeen": "2026-11-22"
+  },
+  {
+    "nm": "최○순",
+    "age": 86,
+    "occrde": "20261122",
+    "sexdstnDscd": "여자",
+    "occrAdres": "서울특별시 마포구 동교로12길 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-22",
+    "_lastSeen": "2026-11-22"
+  },
+  {
+    "nm": "최○옥",
+    "age": 66,
+    "occrde": "20261121",
+    "sexdstnDscd": "여자",
+    "occrAdres": "충청남도 서천군 장항역길 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-22",
+    "_lastSeen": "2026-11-22"
   }
 ]
