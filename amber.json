@@ -2808,5 +2808,45 @@
     "writngTrgetDscd": "062",
     "_firstSeen": "2026-11-23",
     "_lastSeen": "2026-11-23"
+  },
+  {
+    "nm": "성○정",
+    "age": 48,
+    "occrde": "20261122",
+    "sexdstnDscd": "여자",
+    "occrAdres": "경상남도 하동군 섬진강대로 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-23",
+    "_lastSeen": "2026-11-23"
+  },
+  {
+    "nm": "손○조",
+    "age": 89,
+    "occrde": "20261123",
+    "sexdstnDscd": "남자",
+    "occrAdres": "인천광역시 부평구 갈산동 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-23",
+    "_lastSeen": "2026-11-23"
+  },
+  {
+    "nm": "강○찬",
+    "age": 15,
+    "occrde": "20261123",
+    "sexdstnDscd": "남자",
+    "occrAdres": "전남광주통합특별시 무안군 오룡번영1로 ",
+    "writngTrgetDscd": "010",
+    "_firstSeen": "2026-11-23",
+    "_lastSeen": "2026-11-23"
+  },
+  {
+    "nm": "이○애",
+    "age": 74,
+    "occrde": "20261123",
+    "sexdstnDscd": "여자",
+    "occrAdres": "경북 김천시 신음동 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-23",
+    "_lastSeen": "2026-11-23"
   }
 ]
