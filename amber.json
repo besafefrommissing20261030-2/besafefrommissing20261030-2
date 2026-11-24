@@ -2858,5 +2858,35 @@
     "writngTrgetDscd": "070",
     "_firstSeen": "2026-11-24",
     "_lastSeen": "2026-11-24"
+  },
+  {
+    "nm": "황○윤",
+    "age": 46,
+    "occrde": "20261124",
+    "sexdstnDscd": "남자",
+    "occrAdres": "경기도 고양시 덕양구 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-24",
+    "_lastSeen": "2026-11-24"
+  },
+  {
+    "nm": "최○선",
+    "age": 75,
+    "occrde": "20261123",
+    "sexdstnDscd": "남자",
+    "occrAdres": "경기도 양주시 고덕로 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-24",
+    "_lastSeen": "2026-11-24"
+  },
+  {
+    "nm": "최○진",
+    "age": 16,
+    "occrde": "20261123",
+    "sexdstnDscd": "남자",
+    "occrAdres": "경상북도 포항시 북구 ",
+    "writngTrgetDscd": "010",
+    "_firstSeen": "2026-11-24",
+    "_lastSeen": "2026-11-24"
   }
 ]
