@@ -2918,5 +2918,25 @@
     "writngTrgetDscd": "062",
     "_firstSeen": "2026-11-25",
     "_lastSeen": "2026-11-25"
+  },
+  {
+    "nm": "정○천",
+    "age": 68,
+    "occrde": "20261125",
+    "sexdstnDscd": "남자",
+    "occrAdres": "경기 수원시장안구 송정로24번길 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-25",
+    "_lastSeen": "2026-11-25"
+  },
+  {
+    "nm": "윤○례",
+    "age": 84,
+    "occrde": "20261124",
+    "sexdstnDscd": "여자",
+    "occrAdres": "충청북도 청주시 흥덕구 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-25",
+    "_lastSeen": "2026-11-25"
   }
 ]
