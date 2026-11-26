@@ -3008,5 +3008,55 @@
     "writngTrgetDscd": "062",
     "_firstSeen": "2026-11-26",
     "_lastSeen": "2026-11-26"
+  },
+  {
+    "nm": "박○주",
+    "age": 58,
+    "occrde": "20261126",
+    "sexdstnDscd": "남자",
+    "occrAdres": "대구광역시 동구 화랑로 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-26",
+    "_lastSeen": "2026-11-26"
+  },
+  {
+    "nm": "김○중",
+    "age": 36,
+    "occrde": "20261125",
+    "sexdstnDscd": "남자",
+    "occrAdres": "경기도 부천시 소사구 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-26",
+    "_lastSeen": "2026-11-26"
+  },
+  {
+    "nm": "정○형",
+    "age": 75,
+    "occrde": "20261125",
+    "sexdstnDscd": "남자",
+    "occrAdres": "인천 연수구 원인재로 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-26",
+    "_lastSeen": "2026-11-26"
+  },
+  {
+    "nm": "이○천",
+    "age": 67,
+    "occrde": "20261125",
+    "sexdstnDscd": "남자",
+    "occrAdres": "서울 송파구 송파대로8길 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-26",
+    "_lastSeen": "2026-11-26"
+  },
+  {
+    "nm": "s○○○○○○○○○○○○○○)",
+    "age": 17,
+    "occrde": "20261119",
+    "sexdstnDscd": "남자",
+    "occrAdres": "부산광역시 남구 우암로374번길 ",
+    "writngTrgetDscd": "010",
+    "_firstSeen": "2026-11-26",
+    "_lastSeen": "2026-11-26"
   }
 ]
