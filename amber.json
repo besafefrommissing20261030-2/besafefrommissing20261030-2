@@ -2978,5 +2978,35 @@
     "writngTrgetDscd": "062",
     "_firstSeen": "2026-11-26",
     "_lastSeen": "2026-11-26"
+  },
+  {
+    "nm": "김○석",
+    "age": 39,
+    "occrde": "20261126",
+    "sexdstnDscd": "남자",
+    "occrAdres": "전남광주통합특별시 동구 백서로 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-26",
+    "_lastSeen": "2026-11-26"
+  },
+  {
+    "nm": "김○숙",
+    "age": 54,
+    "occrde": "20261126",
+    "sexdstnDscd": "여자",
+    "occrAdres": "전북 익산시 오산면 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-26",
+    "_lastSeen": "2026-11-26"
+  },
+  {
+    "nm": "이○진",
+    "age": 59,
+    "occrde": "20261125",
+    "sexdstnDscd": "여자",
+    "occrAdres": "서울 은평구 역촌동,101호",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-26",
+    "_lastSeen": "2026-11-26"
   }
 ]
