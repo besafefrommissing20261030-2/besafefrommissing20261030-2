@@ -3128,5 +3128,25 @@
     "writngTrgetDscd": "062",
     "_firstSeen": "2026-11-28",
     "_lastSeen": "2026-11-28"
+  },
+  {
+    "nm": "박○해",
+    "age": 84,
+    "occrde": "20261127",
+    "sexdstnDscd": "남자",
+    "occrAdres": "부산광역시 부산진구 범천로12번길 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-28",
+    "_lastSeen": "2026-11-28"
+  },
+  {
+    "nm": "이○진",
+    "age": 59,
+    "occrde": "20261125",
+    "sexdstnDscd": "여자",
+    "occrAdres": "서울특별시 은평구 역말로 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-28",
+    "_lastSeen": "2026-11-28"
   }
 ]
