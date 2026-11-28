@@ -3148,5 +3148,75 @@
     "writngTrgetDscd": "062",
     "_firstSeen": "2026-11-28",
     "_lastSeen": "2026-11-28"
+  },
+  {
+    "nm": "김○숙",
+    "age": 58,
+    "occrde": "20261128",
+    "sexdstnDscd": "여자",
+    "occrAdres": "충청북도 청주시 상당구 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-28",
+    "_lastSeen": "2026-11-28"
+  },
+  {
+    "nm": "전○호",
+    "age": 11,
+    "occrde": "20261128",
+    "sexdstnDscd": "남자",
+    "occrAdres": "(47783) 부산광역시 동래구 ",
+    "writngTrgetDscd": "010",
+    "_firstSeen": "2026-11-28",
+    "_lastSeen": "2026-11-28"
+  },
+  {
+    "nm": "허○순",
+    "age": 66,
+    "occrde": "20261128",
+    "sexdstnDscd": "남자",
+    "occrAdres": "서울특별시 종로구 통일로 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-28",
+    "_lastSeen": "2026-11-28"
+  },
+  {
+    "nm": "진○빈",
+    "age": 11,
+    "occrde": "20261128",
+    "sexdstnDscd": "남자",
+    "occrAdres": "이매역 내",
+    "writngTrgetDscd": "010",
+    "_firstSeen": "2026-11-28",
+    "_lastSeen": "2026-11-28"
+  },
+  {
+    "nm": "구○준",
+    "age": 16,
+    "occrde": "20261128",
+    "sexdstnDscd": "남자",
+    "occrAdres": "경상남도 김해시 김해대로2529번길 ",
+    "writngTrgetDscd": "010",
+    "_firstSeen": "2026-11-28",
+    "_lastSeen": "2026-11-28"
+  },
+  {
+    "nm": "이○숙",
+    "age": 73,
+    "occrde": "20261128",
+    "sexdstnDscd": "여자",
+    "occrAdres": "부산 금정구 중앙대로 ",
+    "writngTrgetDscd": "070",
+    "_firstSeen": "2026-11-28",
+    "_lastSeen": "2026-11-28"
+  },
+  {
+    "nm": "신○임",
+    "age": 54,
+    "occrde": "20261127",
+    "sexdstnDscd": "여자",
+    "occrAdres": "인천광역시 부평구 체육관로 ",
+    "writngTrgetDscd": "062",
+    "_firstSeen": "2026-11-28",
+    "_lastSeen": "2026-11-28"
   }
 ]
